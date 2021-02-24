@@ -3,6 +3,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
+import java.awt.*;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -11,7 +12,7 @@ import java.util.ArrayList;
 public class TimeSeries {
 
     protected String filePath;
-    protected ArrayList<Double> timeSeries = new ArrayList<>();
+    protected ArrayList<Point> timeSeries = new ArrayList<>();
 
     public TimeSeries(String filePath) {
         this.filePath = filePath;
@@ -42,11 +43,13 @@ public class TimeSeries {
     }
 
     private void parseObservation(JSONObject obs) {
+        Point p = new Point();
         JSONArray obsArr = (JSONArray) obs.get("values");
-        timeSeries.add( (Double) obsArr.get(0));
+        p.setLocation((Double) obs.get("time"),(Double) obsArr.get(0));
+        timeSeries.add(p);
     }
 
-    public ArrayList<Double> getTimeSeries() {
+    public ArrayList<Point> getTimeSeries() {
         return timeSeries;
     }
 }

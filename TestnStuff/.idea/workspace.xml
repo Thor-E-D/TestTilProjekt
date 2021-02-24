@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca3ec797-6d75-4481-944e-2f7ec0c95825" name="Default Changelist" comment="" />
+    <list default="true" id="ca3ec797-6d75-4481-944e-2f7ec0c95825" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestnStuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestnStuff.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TimeSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TimeSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/codeStyles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_2_0_M8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_core_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_plugins_maven_compiler_plugin_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_incremental_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_manager_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_java_0_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_ow2_asm_asm_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestnStuff.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimeSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TimeSeries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/codeStyles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_2_0_M8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_core_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_plugins_maven_compiler_plugin_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_incremental_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_manager_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_java_0_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_ow2_asm_asm_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/TestnStuff.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +103,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +114,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1osLIEt1sHRhu8B8ziW0OqQcxT0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +122,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -62,6 +156,7 @@
       <updated>1614070269634</updated>
       <workItem from="1614070272650" duration="2851000" />
       <workItem from="1614173187420" duration="858000" />
+      <workItem from="1614178334600" duration="409000" />
     </task>
     <servers />
   </component>
@@ -77,22 +172,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614070900906" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1614073125918">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1614178665106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614073125918" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1614073125918">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614178665106" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1614178665105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614073125918" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1614073125918">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614178665105" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1614178665105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614073125918" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1614073125918">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614178665105" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1614178665106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614073125918" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614178665106" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1614071096384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
